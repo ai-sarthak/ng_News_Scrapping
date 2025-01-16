@@ -10,3 +10,10 @@ python-dotenv
 google-generativeai  # Make sure to replace with the correct version you are using
 streamlit
 webdriver-manager
+
+
+
+#for selenium:
+sudo apt-get update
+sudo apt-get install -y chromium-browser
+sudo apt-get install -y libx11-dev libxcomposite1 libxrandr2 libxi6 libxtst6 libnss3 libgdk-pixbuf2.0-0 libatspi2.0-0

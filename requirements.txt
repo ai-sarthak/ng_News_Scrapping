@@ -1,10 +1,11 @@
 # Requirements for Web Scraper
-selenium==4.21.0
-pandas==2.0.3
-asyncio==3.11.4  # Note: asyncio is included in the standard library in Python 3.7+, so this may not be necessary.
+selenium
+pandas
+asyncio  # Note: asyncio is included in the standard library in Python 3.7+, so this may not be necessary.
 
 # Requirements for LLM Analyzer
-nltk==3.7
-langchain-google-genai==0.0.14  # Make sure to replace with the correct version you are using
-python-dotenv==1.0.0
-google-generativeai==0.2.2  # Make sure to replace with the correct version you are using
+nltk
+langchain-google-genai  # Make sure to replace with the correct version you are using
+python-dotenv
+google-generativeai  # Make sure to replace with the correct version you are using
+streamlit

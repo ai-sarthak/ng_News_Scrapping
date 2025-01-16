@@ -9,3 +9,4 @@ langchain-google-genai  # Make sure to replace with the correct version you are 
 python-dotenv
 google-generativeai  # Make sure to replace with the correct version you are using
 streamlit
+webdriver-manager
